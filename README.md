@@ -1,6 +1,6 @@
 # easy-iot-web
 
-> A Vue.js project
+> A IoT Project
 
 ## Build Setup
 
