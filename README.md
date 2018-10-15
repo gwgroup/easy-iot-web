@@ -1,6 +1,6 @@
 # easy-iot-web
 
-> A IoT Project
+> A IoT Web Project
 
 ## Build Setup
 
